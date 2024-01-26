@@ -12,8 +12,8 @@ main:
   - title: "Enlaces de interés"
     url: /enlaces/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Equipo"
+    url: /equipo/
     
   # - title: "CV"
   #   url: /cv/
