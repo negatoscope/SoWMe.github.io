@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "SoWMe: Evaluación Cuantitativa del Impacto de la Memoria de Trabajo Social y los Sesgos Cognitivos en la Formación de Relaciones Interpersonales"
+title: "Impacto de la Memoria de Trabajo Social y las Relaciones Interpersonales sobre la Percepción de Bienestar (SoWMe)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
